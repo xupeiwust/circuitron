@@ -29,6 +29,14 @@ Entry Template
 - Notes: <optional follow-ups/known issues>
 ```
 
+### Plan: KiCad 9 migration strategies
+- Date: 2026-01-12
+- Time (UTC): 00:00Z
+- Branch/PR: main
+- Files Changed (high level): docs
+- Details: See collab_progress/kicad9-migration-plan-12-01-2026.md
+- Verification: Docs-only change; tests not run.
+
 ### Fix: Guard CLI/UI when MCP server isn’t running
 - Date: 2025-09-02
 - Time (UTC): 18:30Z
